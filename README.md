@@ -1,5 +1,1 @@
-- Javascript💾
--CSS🌸
--HTML📄
--C++🧟
--Python🦾
+python developer.
